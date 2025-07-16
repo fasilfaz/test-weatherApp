@@ -2,7 +2,7 @@
 
 ## Folder Structure Review
 
-Your project is organized into two main parts: client (frontend) and server (backend).
+This project is organized into two main parts: client (frontend) and server (backend).
 
 ### Client (Frontend)
 - Uses Vue.js (App.vue, main.js)
@@ -194,6 +194,3 @@ MIT License
 
 
 
-**Replace `<https://github.com/fasilfaz/test-weatherApp>` with your actual repository URL.**
-
----
