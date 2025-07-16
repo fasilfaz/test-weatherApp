@@ -1,0 +1,32 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Mobile-friendly weather application with Vue.js frontend and Node.js GraphQL backend",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "server": "nodemon server/index.js",
+    "setup": "node setup.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "apollo-server-express": "^3.12.1",
+    "graphql": "^16.8.1",
+    "mongoose": "^7.5.0",
+    "axios": "^1.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "joi": "^17.9.2",
+    "winston": "^3.10.0",
+    "helmet": "^7.0.0",
+    "express-rate-limit": "^6.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "concurrently": "^8.2.0"
+  },
+  "keywords": ["weather", "vue", "graphql", "nodejs", "mongodb"],
+  "author": "Weather App Developer",
+  "license": "MIT"
+} 
