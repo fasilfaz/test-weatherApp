@@ -199,15 +199,8 @@ MIT License
 
 ---
 
-## 📚 Notes
 
-- For best modularity, add a `components/` folder in `client/src/` for reusable UI.
-- For API docs, add Swagger auto-generation in `server/swagger/`.
-- Ensure all environment variables are managed via `.env` and not committed.
-- Expand logging for full audit trails as needed.
 
----
-
-**Replace `<repository-url>` with your actual repository URL.**
+**Replace `<https://github.com/fasilfaz/test-weatherApp>` with your actual repository URL.**
 
 ---
